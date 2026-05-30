@@ -1,0 +1,6 @@
+### GET ALL STOCKS
+GET http://localhost:5000/api/stocks
+
+
+### GET SINGLE STOCK
+GET http://localhost:5000/api/stocks/AAPL

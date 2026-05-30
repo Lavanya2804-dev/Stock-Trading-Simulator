@@ -1,0 +1,22 @@
+### BUY STOCK
+POST http://localhost:5000/api/portfolio/buy
+Content-Type: application/json
+
+{
+  "symbol": "AAPL",
+  "quantity": 5
+}
+
+
+### SELL STOCK
+POST http://localhost:5000/api/portfolio/sell
+Content-Type: application/json
+
+{
+  "symbol": "AAPL",
+  "quantity": 2
+}
+
+
+### GET PORTFOLIO
+GET http://localhost:5000/api/portfolio

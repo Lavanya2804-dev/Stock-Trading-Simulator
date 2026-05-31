@@ -235,10 +235,5 @@ JWT_SECRET=your_secret_key
 
 GitHub: https://github.com/Lavanya2804-dev
 
-LinkedIn: Add your LinkedIn profile here
+LinkedIn:https://www.linkedin.com/in/sanneboyana-lakshmi-lavanya-6a0a842b3/
 
----
-
-## 📜 License
-
-This project was developed for educational and learning purposes.

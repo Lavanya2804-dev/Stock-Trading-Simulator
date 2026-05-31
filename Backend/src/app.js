@@ -22,7 +22,7 @@ const app = express();
 app.use(
   cors({
     origin: ["http://localhost:5173",
-       "https://stock-trading-simulator-git-main-lavanya2804-devs-projects.vercel.app",
+       "https://stock-trading-simulator-lake.vercel.app/",
     ],
     credentials: true,
   })
